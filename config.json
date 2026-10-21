@@ -1,0 +1,15 @@
+{
+  "HOLD_TIME": 1.0,
+  "HAND_LOST_GRACE": 3.0,
+  "ABSENCE_TIME": 3.0,
+  "COOLDOWN": 8.0,
+  "GRACE_KILL": 3.0,
+  "NOSE_VIS_THRESH": 0.4,
+  "SHOW_PREVIEW": true,
+  "SPEAK": true,
+  "OFFICE_WHITELIST": [
+    "winword.exe", "excel.exe", "powerpnt.exe", "outlook.exe",
+    "onenote.exe", "msaccess.exe", "mspub.exe", "visio.exe",
+    "olk.exe", "teams.exe", "ms-teams.exe"
+  ]
+}
